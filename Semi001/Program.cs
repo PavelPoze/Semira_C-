@@ -73,3 +73,14 @@ while (number1 < number)
     number1 = ( number1 + 1);
 }
 */
+/*Задача №7. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
+	456 -> 6
+	782 -> 2
+	918 -> 8
+    % делит число на 10 до конца
+*/
+Console.WriteLine("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+int b = number % 10;
+Console.WriteLine(b);
+
