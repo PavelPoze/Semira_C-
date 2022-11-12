@@ -1,5 +1,7 @@
-﻿//задача на вход прниммает число и выдает его квадрат
-int number = Convert.ToInt32(Console.ReadLine());
+﻿//задача с вводом числа и вопросом к пользователю
+Console.Write("Введите число: ");
+string? input = Console.ReadLine();
+int number = Convert.ToInt32(input);
 
 int sgr = number * number;
 
