@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\bin\Debug\net6.0\Semi001.exe
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\bin\Debug\net6.0\Semi001.deps.json
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\bin\Debug\net6.0\Semi001.runtimeconfig.json
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\bin\Debug\net6.0\Semi001.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\bin\Debug\net6.0\Semi001.pdb
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\Semi001.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\Semi001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\Semi001.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\Semi001.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\Semi001.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\Semi001.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\refint\Semi001.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\Semi001.pdb
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\Semi001.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Semira_C#\Semi001\obj\Debug\net6.0\ref\Semi001.dll
