@@ -1,7 +1,6 @@
 ﻿//задача на вход прниммает число и выдает его квадрат
-
-int number = new Random().Next(0, 10);
+int number = Convert.ToInt32(Console.ReadLine());
 
 int sgr = number * number;
 
-Console.WriteLine(number + " " + sgr);
+Console.WriteLine(number + " ->" + sgr);
