@@ -1,6 +1,11 @@
-﻿
-string name = "Pavel";
-string departament = "Home";
+﻿int a = 5;
+int b = 10;
 
-string result = name + departament;
-Console.WriteLine(result);
+if (a < b)
+{
+    Console.Write("Да");
+}
+else
+{
+    Console.Write("DRAH");   
+}
