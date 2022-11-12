@@ -1,8 +1,7 @@
-﻿int a = 5;
-int b = 10;
+﻿//задача на вход прниммает число и выдает его квадрат
 
-while (a < b)
-{
-    Console.Write("BG");
-    a = a + 1
-}
+int number = 4;
+
+int sgr = number * number;
+
+Console.WriteLine(sgr);
