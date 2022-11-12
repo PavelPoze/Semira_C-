@@ -1,11 +1,8 @@
 ﻿int a = 5;
 int b = 10;
 
-if (a < b)
+while (a < b)
 {
-    Console.Write("Да");
-}
-else
-{
-    Console.Write("DRAH");   
+    Console.Write("BG");
+    a = a + 1
 }
